@@ -1,0 +1,10 @@
+{
+  "name": "MiniProj3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cabanga <manucabanga@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
