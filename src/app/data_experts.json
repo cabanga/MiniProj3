@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "António Samuel Costa",
+        "tags": [
+            "nodejs",
+            "javascript"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "João Cabanga",
+        "tags": [
+            "Ruby",
+            "javascript"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Agostinho Bismar",
+        "tags": [
+            "Gestão",
+            "Organização"
+        ]
+    }
+]
